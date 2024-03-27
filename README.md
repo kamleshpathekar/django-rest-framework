@@ -1,2 +1,2 @@
-# django-todo-app
-Learn to use docker
+# django-rest-framework
+Learn to use DRF
